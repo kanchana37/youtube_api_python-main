@@ -1,0 +1,15 @@
+youtube-comment-scraper-python
+pandas
+bot-studio
+tqdm==4.64.1
+colorama
+certifi==2021.10.8
+charset-normalizer==2.0.12
+requests==2.27.1
+urllib3==1.26.9
+idna==3.3
+six==1.16.0
+numpy
+pytz
+python-dateutil==2.8.1
+tzdata==2020.1
