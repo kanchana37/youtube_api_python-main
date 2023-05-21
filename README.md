@@ -1,7 +1,7 @@
-## problem statement
+# Problem Statement
 Take any YouTube video link and your task is to extract the comments from that videos and store it in a csv.
 
-## usage
+## Usage
 
 1. pip install -r requirements.txt
 
